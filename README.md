@@ -4,7 +4,9 @@ This repository contains a compilaiton of fundamental machine learning projects,
 
 
 1. Linear Regression project
+
 Problem: look at a demo e-store's data to decide what part of their business shall they focus on more 
+
 Key Steps : 
 	
 		•Performed EDA using matplotlib and Seaborn
@@ -24,7 +26,9 @@ Key Steps :
 		
 				
 2. Logistic Regression project:
+
 Problem : Created a prediction model that predicts whether or not a user will click on an ad based off the features of that user
+
 Key Steps : 
 
 		•Performed EDA using matplotlib and Seaborn
@@ -34,7 +38,10 @@ Key Steps :
 		•Evaluated performace using the confusion matrix and the classification report
 		
 3. K Means Clustering Project
+
 Problem : Used universities data to train prediction model for 2 clusters (Public and Private)
+
+Key Steps:
 
 		•Performed EDA using matplotlib and Seaborn
 		•Split train and test data
@@ -45,7 +52,9 @@ Problem : Used universities data to train prediction model for 2 clusters (Publi
 			
 			
 4. K Nearest Neighbors project:
+
 Problem : Performed KNN algorithm on an anonymised classified data and predicted column titles
+
 Key Steps : 
 
 		•Performed EDA using matplotlib and Seaborn
@@ -59,7 +68,9 @@ Key Steps :
 		
 		
 5. Decision Trees and Random Forest project
+
 Problem : Used data for landingclub.com (2007 to 2010) to predict defaulters in loan payback
+
 Key Steps : 
 
 		•Performed EDA using matplotlib and Seaborn
@@ -76,8 +87,10 @@ Key Steps :
 	 
 	 
 6. Support Vector Machines project
+
 Problem : worked on the iris flower dataset (imported from seaborn collection) 
 tried to predict the species of flower with given features
+
 Key Steps : 
 
 		•Performed EDA using matplotlib and Seaborn
