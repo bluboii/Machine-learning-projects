@@ -1,6 +1,6 @@
 # Machine-learning-projects
 
-This repository contains a compilaiton of fundamental machine learning projects, details of which are as following:
+This repository contains a compilation of fundamental machine learning algorithms projects, details of which are as following:
 
 
 1. Linear Regression project
@@ -86,7 +86,7 @@ Key Steps :
 		•Evaluated performace using the confusion matrix and the classification report
 	 
 	 
-6. Support Vector Machines project
+6. Support Vector Machines (SVM) project
 
 Problem : worked on the iris flower dataset (imported from seaborn collection) 
 tried to predict the species of flower with given features
